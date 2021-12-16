@@ -1,6 +1,6 @@
 This app is a cloned version of [Contentful's blog](https://contentful.com/blog).
 
-The project is primarily an exercise to onboard new developers in the Intercom's account for Globant.
+The project is primarily an exercise to onboard new developers in the Globants's account for Intercom.
 
 ## Goals
 
@@ -48,7 +48,7 @@ Go to your repository Settings > Branches and configure like so:
 
 :exclamation: Please note this action will clone this repository into your own Github account.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/zamancer/content-blog-template&utm_source=github)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/g-azambrano/blog-onboarding-exercise&utm_source=github)
 
 **Option two:** Manual connection
 
